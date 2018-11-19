@@ -7,4 +7,5 @@ This project uses HAAR cascade filters to detect a face via web cam:
   +  Four-rectangle features are used to detect pupils
   +  Line features are used to detect lips
   
-  
+  ## HAAR-Like Features
+![HAAR-Like Features](https://github.com/dtnnguyen/FaceRecognition/blob/master/Images/HAARCASCADE.png)
